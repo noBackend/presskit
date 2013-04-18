@@ -56,8 +56,8 @@ More examples and discussion can be found at http://nobackend.org/dreamcode.
 Who is behind noBackend
 -----------------------
 
-noBackend has been initiatev by [Gregor Martynus](https://twitter.com/gr2m).
-He's VERY open invite others to help promoting the discussion.
+noBackend has been initiatev by [Gregor Martynus](https://twitter.com/gr2m).  
+But everyone is more than invited to promote the discussion.
 
 
 Logo
