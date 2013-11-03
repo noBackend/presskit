@@ -73,13 +73,10 @@ But everyone is more than invited to promote the discussion.
 Logo
 ----
 
-![logo-black-alpha.png](http://nobackend.github.io/presskit/logo/logo-black-alpha.png)
-
-![logo-black.png](http://nobackend.github.io/presskit/logo/logo-black.png)
-
-![logo-white-alpha-shiny.png](http://nobackend.github.io/presskit/logo/logo-white-alpha-shiny.png)
-
-![logo-white.png](http://nobackend.github.io/presskit/logo/logo-white.png)
+* [logo-black-alpha.png](http://nobackend.github.io/presskit/logo/logo-black-alpha.png)
+* [logo-black.png](http://nobackend.github.io/presskit/logo/logo-black.png)
+* [logo-white-alpha-shiny.png](http://nobackend.github.io/presskit/logo/logo-white-alpha-shiny.png)
+* [logo-white.png](http://nobackend.github.io/presskit/logo/logo-white.png)
 
 
 Questions
