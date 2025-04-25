@@ -57,7 +57,7 @@ External resources
 ------------------
 
 Original Talk at [Front-Trends Conference](http://2013.front-trends.com/) in Warsaw, April 2013:
-https://vimeo.com/67553019
+~~https://vimeo.com/67553019~~ (video removed, see the talk given later at ScotlandJS: https://www.youtube.com/watch?v=L82RWKEN3mg)
 
 Great talk by [Alex](https://github.com/espy) at [JSConf EU](http://2013.jsconf.eu/), September 2013
 http://www.youtube.com/watch?v=ARophKqA4E0
